@@ -3,7 +3,7 @@
 
 APP_NAME = "HealthApp"
 VERSION = "1.0.0"
-MODULO_ACTIVO = "pacientes"
+MODULO_ACTIVO = "login y pacientes"
 
 def mostrar_configuracion():
     print("Aplicación:", APP_NAME)
@@ -11,3 +11,4 @@ def mostrar_configuracion():
     print("Módulo activo:", MODULO_ACTIVO)
 
 mostrar_configuracion()
+
